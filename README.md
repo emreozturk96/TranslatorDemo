@@ -1,5 +1,5 @@
 # TranslatorDemo
-Swing ve JDBC kullanarak basit türkçe ingilizce sözlük.
+Swing ve JDBC kullanarak basit türkçe ingilizce sözlük.  
 Simple Turkish-English dictionary using Swing, JDBC and MySQL Database.
 
 
